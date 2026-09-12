@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Hello from MASTER
-=======
-Hello from FEATURE
->>>>>>> feature/greeting
 Hello from FEATURE
